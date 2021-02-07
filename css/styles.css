@@ -761,5 +761,9 @@ footer span a {
     .skill .skill-content .card {
         width: 100%;
         margin-top: 30px; 
-    } 
+    }
+    
+    footer {
+        font-size: 12px;
+    }
 }
