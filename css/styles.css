@@ -423,7 +423,7 @@ section .title::after {
 
 .contact {
     background: rgb(217,217,217);
-    padding: 100px 100px;
+    padding: 100px 0;
 }
 
 .contact .title::before {
@@ -497,7 +497,7 @@ section .title::after {
     border: 1px solid lightgrey;
     border-radius: 6px;
     padding: 0 15px;
-    font-size: 16px;
+    font-size: 15px;
     font-family: "Poppins", sans-serif;
 }
 
@@ -656,7 +656,7 @@ footer span a {
     .navbar .menu li a {
         color: black;
         display: inline-block;
-        margin: 40px 0;
+        margin: 30px 0;
         font-size: 25px;
     }
 
