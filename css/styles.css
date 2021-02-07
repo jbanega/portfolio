@@ -764,7 +764,7 @@ footer span a {
     }
 }
 
-@media (max-width: 500px){
+@media (max-width: 350px){
     footer {
         font-size: 10px;
     }
